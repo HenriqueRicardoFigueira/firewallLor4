@@ -1,0 +1,26 @@
+{
+      "firewall_conf": {
+            "nodes": [
+                  {
+                        "addr": "204309", 
+                        "rule": "black"
+                  }, 
+                  {
+                        "addr": "309808", 
+                        "rule": "white"
+                  }, 
+                  {
+                        "addr": "123155", 
+                        "rule": "allow"
+                  }, 
+                  {
+                        "addr": "123123", 
+                        "rule": "deny"
+                  }, 
+                  {
+                        "addr": "123154", 
+                        "rule": "black"
+                  }
+            ]
+      }
+}
